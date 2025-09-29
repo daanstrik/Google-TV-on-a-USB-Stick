@@ -4,6 +4,29 @@ Ever want a Google Tv in your pocket? No? Too bad! Here's the tutorial!
 !!Works on Macs! EVEN WITH A T1 CHIP!!
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Lets start. first you have to have atleast a 8GB USB Stick. Dont? Too bad. it wont fit.
 First head to this link to download the iso and the storage files: https://mega.nz/file/PVp3RJKD#Lrx54cvoPsl195aAm6rdCq3sqZqgjQKKd_1kjFoAfLY
 Next, download rufus here: https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://rufus.ie/&ved=2ahUKEwi3q93zvP6PAxX-wAIHHaibE6AQFnoECAwQAQ&usg=AOvVaw360qlGZbGE3DcSah5A5ITM
