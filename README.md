@@ -1,7 +1,7 @@
 # Google-TV-on-a-USB-Stick
 Ever want a Google Tv in your pocket? No? Too bad! Here's the tutorial!
 
-!!Works on Macs! EVEN WITH A T1 CHIP!!
+!!Works on Macs! EVEN WITH A T1 CHIP! (Creators note: Works so much better on windows pc's/laptops anyway. but it should be universal. except for Apple Silicon.)
 
 
 
